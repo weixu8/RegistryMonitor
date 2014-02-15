@@ -1,8 +1,0 @@
-errors in directory d:\drivers\kerneldriverdev\kmon
-kmon_kl.c(55) : error C2065: 'OldZwCreateKey' : undeclared identifier
-kmon_kl.c(392) : error C4113: 'NTSTATUS (__stdcall *)()' differs in parameter lists from 'PDRIVER_DISPATCH'
-kmon_kl.c(410) : error C4047: '=' : 'int' differs in levels of indirection from 'ZWCREATEKEY'
-kmon_kl.c(411) : error C2065: 'OldZwTerminateProcess' : undeclared identifier
-kmon_kl.c(411) : error C2065: 'ZWTERMINATEPROCESS' : undeclared identifier
-kmon_kl.c(411) : error C2064: term does not evaluate to a function taking 27828104 arguments
-kmon_kl.c(413) : error C4047: '=' : 'int' differs in levels of indirection from 'PVOID'
